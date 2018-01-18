@@ -1,2 +1,2 @@
 # SOPs
-Internal SOPs
+Internal SOPs for the Knights Lab
